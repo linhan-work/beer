@@ -1,0 +1,83 @@
+{
+  "index.html": {
+    "resources": [
+      "js/mui.min.js",
+      "all/history.html",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "all/feedback.html",
+      "all/allbeer.html",
+      "all/news.html",
+      "all/about.html",
+      "all/beercul.html",
+      "all/game.html"
+    ],
+    "refer": [
+      "all/history.html",
+      "all/feedback.html",
+      "all/allbeer.html",
+      "all/news.html",
+      "all/about.html",
+      "all/beercul.html",
+      "all/game.html"
+    ]
+  },
+  "all/history.html": {
+    "resources": [
+      "index.html"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "all/feedback.html": {
+    "resources": [
+      "index.html",
+      "css/feedback.css",
+      "js/feedback.js"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "all/allbeer.html": {
+    "resources": [
+      "index.html"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "all/news.html": {
+    "resources": [
+      "index.html"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "all/about.html": {
+    "resources": [
+      "index.html"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "all/beercul.html": {
+    "resources": [
+      "index.html"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "all/game.html": {
+    "resources": [
+      "index.html"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  }
+}
